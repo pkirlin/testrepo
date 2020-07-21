@@ -1,2 +1,2 @@
 This is another file.  It has one line.
-2nd line.
+2nd line - changed!
