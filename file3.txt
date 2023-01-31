@@ -1,10 +1,5 @@
 1
-2update
+2
 3
-<<<<<<< HEAD
-4update
-5
-=======
 4
-5update
->>>>>>> 5e19b5ba88ceb8c5ac01efc5edb97a429deed7f9
+5
